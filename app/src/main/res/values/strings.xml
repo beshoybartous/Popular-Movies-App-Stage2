@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="info_label">INFO</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string-array name="sort_items">
+        <item> Popular Movies</item>
+        <item> Top Rated Movies</item>
+        <item> Favorite Movies</item>
+    </string-array>
+</resources>
