@@ -1,4 +1,4 @@
-package com.example.myapplication.ModelView;
+package com.example.myapplication.ViewModel;
 
 import android.app.Application;
 
@@ -10,8 +10,6 @@ import androidx.lifecycle.MutableLiveData;
 import com.example.myapplication.Models.MovieTrailerModel;
 import com.example.myapplication.Models.ReviewModel;
 import com.example.myapplication.Repository.DetailRepository;
-
-import java.util.List;
 
 public class DetailViewModel extends AndroidViewModel {
     DetailRepository detailRepository;

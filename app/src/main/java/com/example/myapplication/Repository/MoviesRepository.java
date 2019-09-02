@@ -21,7 +21,7 @@ import retrofit2.Response;
 
 public class MoviesRepository {
     //api data
-    private final static String API_KEY="7d8c113767e44efb0a4a84fe6da33568";
+    private final static String API_KEY="";
     private final static String LANGUAGE="en-US";
     private static int PAGE=1;
 

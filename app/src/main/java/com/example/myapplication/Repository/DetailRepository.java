@@ -19,7 +19,7 @@ import retrofit2.Response;
 public class DetailRepository {
 
 
-    public static String API_KEY="7d8c113767e44efb0a4a84fe6da33568";
+    public static String API_KEY="";
     public static String LANGUAGE="en-US";
     public static int PAGE=1;
 

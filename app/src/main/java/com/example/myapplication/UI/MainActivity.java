@@ -29,7 +29,7 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.GridLayoutManager;
 import com.example.myapplication.Adapter.MovieAdapter;
-import com.example.myapplication.ModelView.MoviesViewModel;
+import com.example.myapplication.ViewModel.MoviesViewModel;
 import com.example.myapplication.Models.MoviesDB;
 import com.example.myapplication.Models.MoviesModel;
 import com.example.myapplication.R;
